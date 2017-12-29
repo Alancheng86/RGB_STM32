@@ -7,6 +7,29 @@
 *.obj
 *.elf
 
+####keil  project  gitignore######
+!*.c   
+!*.h 
+!*.lib 
+*.log  
+*.plg  
+*.bak  
+*.dep  
+*.uvgui.*  
+JLinkLog.txt 
+*.d  
+*.crf  
+*.tra  
+*.axf  
+*.hex  
+*.lnp  
+*.sct  
+*.__i  
+*.htm 
+*.TMP
+*.html
+####keil  project  gitignore######
+
 # Linker output
 *.ilk
 *.map
